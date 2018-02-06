@@ -1,0 +1,43 @@
+https://mapzen.com/data/metro-extracts/metro/portland_oregon/
+
+From Wikipedia:
+
+Portland is the largest city in the U.S. state of Oregon and the seat of Multnomah County. It is a major port in the Willamette Valley region of the Pacific Northwest, at the confluence of the Willamette and Columbia rivers. 
+The city covers 145 square miles (380 square kilometers) and had an estimated population of 639,863 in 2016,[9] making it the 26th most populous city in the United States, and the second-most populous in the Pacific Northwest.[10] 
+Approximately 2,424,955 people live in the Portland metropolitan statistical area (MSA), making it the 25th most populous MSA in the United States. 
+Its Combined Statistical Area (CSA) ranks 18th with a population of 3,160,488. Roughly 60% of Oregon's population resides within the Portland metropolitan area.[11]
+
+Named after Portland, Maine, the Oregon settlement began to be populated in the 1830s near the end of the Oregon Trail. Its water access provided convenient transportation of goods, and the timber industry was a major force in the city's early economy. 
+At the turn of the 20th century, the city had a reputation as one of the most dangerous port cities in the world, a hub for organized crime and racketeering.
+ After the city's economy experienced an industrial boom during World War II, its hard-edged reputation began to dissipate. 
+Beginning in the 1960s,[12] Portland became noted for its growing liberal political values, and the city has earned a reputation as a bastion of counterculture, which proceeded into the 21st century.[13]
+
+The city operates with a commission-based government guided by a mayor and four commissioners as well as Metro, the only directly elected metropolitan planning organization in the United States.[14] 
+The city government is notable for its land-use planning and investment in public transportation.[15] 
+Portland is frequently recognized as one of the world's most environmentally conscious cities because of its high walkability, large community of bicyclists, farm-to-table dining, expansive network of public transportation options, and over 10,000 acres (4,000 hectares) of public parks.
+[16] Its climate is marked by warm, dry summers and cool, rainy winters. This climate is ideal for growing roses, and Portland has been called the "City of Roses" for over a century.[17][18] "Keep Portland Weird" is an unofficial slogan for the city.[19]
+
+[1] "Portland: The Town that was Almost Boston". National Association of Scientific Materials Managers. Retrieved March 7, 2013.
+[2] "City Home". City of Portland, Oregon. 2017. Retrieved January 2, 2017.
+[3] "US Gazetteer files 2010". United States Census Bureau. Archived from the original on July 14, 2012. Retrieved December 21, 2012.
+[4] The highest elevation is at 9936 NW Wind Ridge Dr., 45.55873°N 122.77854°W. "City of Portland Urban Services Area". Bureau of Planning and Sustainability. Retrieved October 30, 2015.
+[5] The lowest elevation historically occurred at low water on January 17, 1937 at the confluence of the Columbia and Willamette Rivers 45.65096°N 122.76289°W. "Advanced Hydrologic Prediction Service: Portland: Columbia River at Vancouver". Water.weather.gov. Retrieved September 6, 2013.
+[6] "American FactFinder". United States Census Bureau. Retrieved January 4, 2013.
+[7] https://www2.census.gov/programs-surveys/popest/datasets/2010-2016/cities/totals/sub-est2016_41.csv
+[8] "US Board on Geographic Names". United States Geological Survey. October 25, 2007. Retrieved January 31, 2008.
+[9] "2016 Census population estimates for every U.S. city, county, state (database)".
+[10] Danver, Steven L., ed. (2013). Encyclopedia of Politics of the American West. CQ Press. pp. 533–4. ISBN 978-1-506-35491-0.
+[11] According to the U.S. Census Bureau, Oregon's population as of 2015 is 4,028,977; with the MSA being 2,424,955, this leaves 65%~ of Oregon's population residing within the metro
+[12] Olsen, Polina (2012). Portland in the 1960s: Stories from the Counterculture. Charleston, South Carolina: The History Press. ISBN 978-1-60949-471-1.
+[13] Weber, Peter (January 13, 2014). "Don't let Portlandia ruin Portland". The Week. Retrieved October 30, 2015.
+[14] Nate Berg (March 1, 2012). "The Only Elected Regional Government in the U.S". City Lab. Retrieved February 25, 2015.
+[15] "The "Smart Growth" Debate Continues". Urban Mobility Corporation. May–June 2003. Retrieved November 7, 2006.
+[16] Kate Sheppard (July 19, 2007). "15 Green Cities". Environmental News and Commentary. Retrieved June 23, 2010.
+[17] Haru Fisher, Robert (February 13, 2004). "Portland, Oregon: Green City of Roses | Frommers.com". Frommer's. Retrieved July 11, 2017.
+[18] Portland – MSN Encarta. Encarta.msn.com. Archived from the original on October 29, 2009.
+[19] Greig, Alex (November 29, 2013). "Welcome to Portraitlandia! Celebrating the weird and wonderful residents of America's liberal hub". Daily Mail. London, UK. Retrieved July 3, 2017.
+
+I chose this city more at less at random but it won out against others because:
+	1.  It was American so I wouldn't have to struggle with a foreign language
+	2.  The area is dense with little wasted space
+	3.  The osm file size was above the required limit. Although, I was looking at the compressed file size so it ending up being way larger than required.
