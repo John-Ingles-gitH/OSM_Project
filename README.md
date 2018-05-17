@@ -56,3 +56,7 @@ The code in this repository requires Python 3.x and the following libraries:
 
 You can view the process I took to audit the data and some example database
 queries by navigating to this repository's [GitHub Page](https://john-ingles-gith.github.io/OSM_Project/).
+
+## License
+
+GNU General Public License v3.0
